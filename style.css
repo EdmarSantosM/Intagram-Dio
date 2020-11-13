@@ -25,9 +25,14 @@ body{
     height: 100vh;
 }
 
-.instagram-phone {
+.instagram-home {
     display: flex;
     align-items: center;
     justify-content: center;
-    width: 75%;
+    width: 50%;
 }
+
+.instagram-home {
+    height: 50rem;
+}
+
