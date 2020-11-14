@@ -72,3 +72,7 @@ body{
     border-radius: 50%;
     overflow: hidden;
 }
+
+.profile-photo img {
+    height: 6rem;
+}
