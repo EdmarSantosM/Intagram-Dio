@@ -133,3 +133,8 @@ body{
 
 /* media queries para  tablet e  celular*/
 
+@media (max-width: 1024px ) {
+    .instagram-wrapper {
+        width: 90%;
+    }
+}
