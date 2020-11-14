@@ -41,5 +41,7 @@ body{
     align-items: center; /* horizontal */
     justify-content: space-around; /* vertical*/
     flex-direction: column;
+    width: 50%;
+    min-height: 34rem;
 }
 
