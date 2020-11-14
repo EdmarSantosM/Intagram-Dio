@@ -25,14 +25,21 @@ body{
     height: 100vh;
 }
 
-.instagram-home {
+.instagram-celular {
     display: flex;
     align-items: center;
     justify-content: center;
     width: 50%;
 }
 
-.instagram-home img {
+.instagram-celular img {
     height: 50rem;
+}
+
+.instagram-continue {
+    display: flex;
+    align-items: center; /* horizontal */
+    justify-content: space-around; /* vertical*/
+    flex-direction: column;
 }
 
