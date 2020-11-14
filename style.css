@@ -127,3 +127,9 @@ body{
 .app-download:nth-child(2) {
     background-image: url('./img/googleplay-button.png');
 }
+
+
+/* Criando uma resposividade */
+
+/* media queries para  tablet e  celular*/
+
