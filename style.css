@@ -64,3 +64,9 @@ body{
 .instagram-logo {
     height: 3rem;
 }
+
+.profile-photo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
